@@ -1,0 +1,15 @@
+这是一个测试文件，用于测试 git pre-commit 钩子。
+
+作者：<username>
+邮箱：<username>@example.com
+GitHub：https://github.com/<username>
+
+测试内容：
+1. 这是 <username> 的第一个测试
+2. 这是 <username> 的第二个测试
+3. 这是 <username> 的第三个测试
+4. 这是 <username> 的第四个测试
+5. 这是 <username> 的第五个测试
+6. 这是 <username> 的第六个测试
+
+结尾：由 <username> 编写于 2024年 
